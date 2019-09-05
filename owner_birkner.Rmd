@@ -1,0 +1,12 @@
+---
+title: "owner_birkner"
+output: html_document
+---
+
+Name: Jaden Birkner
+
+Field of Study: I tell people advertising is about problem solving and involves many different skills.
+
+Organization tools: keep folder seperated by class, sort in alphabetic order, keep all related files in folders on my computer
+
+I am related to Pocahontas
